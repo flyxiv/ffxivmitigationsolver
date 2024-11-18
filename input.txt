@@ -1,0 +1,5 @@
+WAR PLD AST SCH DRG NIN BRD RDM 
+240000 120000
+Phylas_Morphic 00:11 Magic Raidwide Instant 105022
+Tank_Buster_Dot 00:15 Magic Tankshare Dottick 10222 30
+Tank_Buster_Instant 00:15 Magic Tankshare Instant 103020

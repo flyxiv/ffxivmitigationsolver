@@ -1,0 +1,13 @@
+{
+	"files.associations": {
+		"ffxiv_tactic_page.h": "c",
+		"const.h": "c",
+		"string_util.h": "c",
+		"typeinfo": "c",
+		"input_timeline_parser.h": "c",
+		"solver_board.h": "c",
+		"error_handler.h": "c"
+	},
+	"C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google}",
+	"editor.formatOnSave": true,
+}
